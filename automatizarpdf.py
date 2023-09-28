@@ -7,7 +7,6 @@ import time
 
 #Determina um delay entre as linhas do código para evitar que certas linhas deixem de ser utilizadas de forma correta.
 pyautogui.PAUSE = 0.55
-
 #Pressiona o botão CAPSLOCK do teclado com o objetivo de deixar o nome do arquivo pdf em caixa alta.
 pyautogui.press('capslock')
 #Pressiona o botão WIN do teclado para que seja pesquisado o endereço na barra de pesquisa do Windows.

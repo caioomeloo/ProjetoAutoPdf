@@ -12,7 +12,7 @@ pyautogui.press('capslock')
 #Pressiona o botão WIN do teclado para que seja pesquisado o endereço na barra de pesquisa do Windows.
 pyautogui.press('win')
 #Digita TESTE na barra de pesquisa.
-pyautogui.write('teste')
+pyautogui.write('teste1')
 #Pressiona o botão ENTER para abrir a pasta TESTE.
 pyautogui.press('enter')
 #Determina um delay de 1 segundo para dar tempo de carregar a pasta TESTE.
